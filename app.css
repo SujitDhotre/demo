@@ -1,0 +1,10 @@
+body{
+    margin: 0.2em;
+    padding: 2em;
+}
+h1{
+    background-color: pink;
+    color: black;
+    text-align: center;
+    margin: auto;
+}
